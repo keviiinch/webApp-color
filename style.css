@@ -1,0 +1,11 @@
+/* style.css */
+.color-box {
+    /* Quitamos el borde fijo de abajo que teníamos antes */
+    border: 1px solid rgba(0,0,0,0.1);
+    /* Transición suave */
+    transition: background-color 0.15s ease-in-out;
+}
+
+#hexText {
+    letter-spacing: 2px;
+}
