@@ -1,19 +1,37 @@
-# Programa inicial para la materia Programación Web
+---
 
-## Esta aplicación muestra la funcionalidad de la administración de color RGB, por medio de controles Web
+# 🌐✨ **Programa Inicial – Programación Web** ✨🌐
 
-## La aplicación incluye el manejo de Bootstrap  
-https://getbootstrap.com/
+## 🎨 **Aplicación Web: Administrador de Colores RGB**
+
+Esta aplicación demuestra la **gestión y visualización de colores RGB** 🎚️🔴🟢🔵
+mediante **controles Web interactivos**, permitiendo observar en tiempo real
+los cambios de tonalidad de color.
+
+Además, la aplicación incorpora el uso del framework **Bootstrap** 💠
+para lograr una **interfaz moderna, responsiva y atractiva**.
+
+🔗 Sitio oficial de Bootstrap:
+👉 [https://getbootstrap.com/](https://getbootstrap.com/)
 
 ---
 
-### Datos del programador
-- Nombre: Cerón Hernández Kevin
+## 👨‍💻 **Datos del Programador**
 
-### Datos de la institución
-- Instituto Tecnologico de Pachuca 
-- Ingenieria en Sistemas Computacionales
+* 🧑 Nombre: **Cerón Hernández Kevin**
 
+---
 
-### Materia
-- Programación Web
+## 🏫 **Datos de la Institución**
+
+* 🏛️ **Instituto Tecnológico de Pachuca**
+* 💻 **Ingeniería en Sistemas Computacionales**
+
+---
+
+## 📚 **Materia**
+
+* 🖥️ **Programación Web**
+
+---
+
