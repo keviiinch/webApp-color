@@ -1,5 +1,5 @@
 ---
-
+**
 # 🌐✨ **Programa Inicial – Programación Web** ✨🌐
 
 ## 🎨 **Aplicación Web: Administrador de Colores RGB**
@@ -13,7 +13,7 @@ para lograr una **interfaz moderna, responsiva y atractiva**.
 
 🔗 Sitio oficial de Bootstrap:
 👉 [https://getbootstrap.com/](https://getbootstrap.com/)
-
+**
 ---
 
 ## 👨‍💻 **Datos del Programador**
